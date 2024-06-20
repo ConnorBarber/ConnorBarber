@@ -1,14 +1,19 @@
-<h1>Hi, I'm Connor! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Connor! <br/><a href="https://github.com/ConnorBarber">Programmer/IT Technician</a>, <a href="https://www.linkedin.com/in/connor-barber-b259a0194/">Recent Graduate</a></h1>
 
-<h2> 📖 Education Information:</h2>
+<h2>📖 Education Information:</h2>
 
+- <b>Graduate of Ohio University, with the following degrees:</b></br>
+  - Bachelors in Technical and Applied Studies</br>
+  - Associates in Computer Technology</br>
+  - Minor in Philosophy
+  
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- 
+  
 
 <h2>📺 YouTube Videos</h2>
 
@@ -21,10 +26,12 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ConnorBarber/ConnorBarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Emoji List:
 
+- 📖 Education Tab(Complete)
+- 👨‍💻 Coding Section(WIP)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
