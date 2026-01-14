@@ -1,4 +1,4 @@
-<h1>Hi, I'm Connor! <br/><a href="https://github.com/ConnorBarber">Programmer/IT Technician</a>, <a href="https://www.linkedin.com/in/connor-barber-b259a0194/">Recent Graduate</a></h1>
+<h1>Hi, I'm Connor! <br/><a href="https://github.com/ConnorBarber">Programmer/IT Technician</a>, <a href="https://www.linkedin.com/in/connor-barber-b259a0194/"></a></h1>
 
 <h2>📖 Education Information:</h2>
 
